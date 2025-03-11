@@ -68,7 +68,7 @@ The lab was conducted as part of the *Application Security & Database Security* 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/database-migration-lab.git
+   git clone https://github.com/tranqtruong/Database-Security.git
    ```
 2. Follow the steps outlined in the `Report.pdf`.
 3. Execute the SQL scripts as needed.
